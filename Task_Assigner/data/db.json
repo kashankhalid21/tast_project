@@ -1,0 +1,28 @@
+{
+  "employees": [
+    {
+      "task": "Erste Hilfe",
+      "employee": "Lukas Adämmer",
+      "due_date": "2021-01-03",
+      "id": 4566
+    },
+    {
+      "task": "Allg. Sicherheitsunterweisung",
+      "employee": "Monja Meier",
+      "due_date": "2021-01-01",
+      "id": 3107
+    },
+    {
+      "task": "Führerscheinkontrolle",
+      "employee": "Dennis Berkemeier",
+      "due_date": "2021-03-16",
+      "id": 1532
+    },
+    {
+      "task": "Erste Hilfe",
+      "employee": "Monja Meier",
+      "due_date": "2021-01-01",
+      "id": 8235
+    }
+  ]
+}
